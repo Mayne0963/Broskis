@@ -1,0 +1,1 @@
+// MusicPlayerControls stub

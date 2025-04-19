@@ -1,0 +1,1 @@
+// Auth signup API stub

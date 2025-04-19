@@ -1,0 +1,1 @@
+// VerificationStatusIndicator stub

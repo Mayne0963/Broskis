@@ -1,0 +1,1 @@
+// Auth validate API stub

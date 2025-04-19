@@ -1,0 +1,1 @@
+// Age verification stub
